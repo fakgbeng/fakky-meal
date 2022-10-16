@@ -1,5 +1,4 @@
 import ReactDOM from 'react-dom';
-import Cart from '../../Cart/Cart';
 import { Fragment } from 'react';
 import { ModalOverlay, Backdrop } from '../ModalOverlay/ModalOverlay';
 
